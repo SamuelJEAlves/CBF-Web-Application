@@ -6,6 +6,7 @@
 <body>
     <h1>Brasileirao Serie A</h1>
     <a href="cadastrarjogador.jsp">Cadastrar jogador</a>
+    <a href="cadastrartime.jsp">Cadastrar time</a>
     <a href="listarjogador.jsp">Listar jogador</a>
 </body>
 </html>

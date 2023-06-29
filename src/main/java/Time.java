@@ -4,6 +4,7 @@ public class Time {
 
     private String nome;
     private int idade;
+    private boolean estadio;
 
     private ArrayList<Jogador> jogadores;
     private Tecnico tecnico = new Tecnico();
